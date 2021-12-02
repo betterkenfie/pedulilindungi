@@ -1,0 +1,134 @@
+{
+	"item": [
+		{
+			"title": "Terkonfirmasi",
+			"color": "0xFFBF360C",
+			"detail": [
+				{
+					"location": "Kelurahan",
+					"total": 1,
+					"count": 2
+				},
+				{
+					"location": "Kecamatan",
+					"total": 3,
+					"count": 0
+				},
+				{
+					"location": "Kota",
+					"total": 6,
+					"count": 0
+				},
+				{
+					"location": "Provinsi",
+					"total": 3,
+					"count": 0
+				}
+			]
+		},
+		{
+			"title": "Suspek",
+			"color": "0xFFFF6F00",
+			"detail": [
+				{
+					"location": "Kelurahan",
+					"total": 0,
+					"count": 89
+				},
+				{
+					"location": "Kecamatan",
+					"total": 0,
+					"count": 12
+				},
+				{
+					"location": "Kota",
+					"total": 0,
+					"count": 12
+				},
+				{
+					"location": "Provinsi",
+					"total": 123,
+					"count": 0
+				}
+			]
+		},
+		{
+			"title": "Kontak Erat",
+			"color": "0xFFE65100",
+			"detail": [
+				{
+					"location": "Kelurahan",
+					"total": 0,
+					"count": 43
+				},
+				{
+					"location": "Kecamatan",
+					"total": 0,
+					"count": 2
+				},
+				{
+					"location": "Kota",
+					"total": 23,
+					"count": 0
+				},
+				{
+					"location": "Provinsi",
+					"total": 1039,
+					"count": 0
+				}
+			]
+		},
+		{
+			"title": "Sembuh",
+			"color": "0xFF1B5E20",
+			"detail": [
+				{
+					"location": "Kelurahan",
+					"total": 0,
+					"count": 43
+				},
+				{
+					"location": "Kecamatan",
+					"total": 0,
+					"count": 2
+				},
+				{
+					"location": "Kota",
+					"total": 23,
+					"count": 0
+				},
+				{
+					"location": "Provinsi",
+					"total": 1039,
+					"count": 0
+				}
+			]
+		},
+		{
+			"title": "Meninggal",
+			"color": "0xFFB71C1C",
+			"detail": [
+				{
+					"location": "Kelurahan",
+					"total": 0,
+					"count": 43
+				},
+				{
+					"location": "Kecamatan",
+					"total": 0,
+					"count": 2
+				},
+				{
+					"location": "Kota",
+					"total": 23,
+					"count": 0
+				},
+				{
+					"location": "Provinsi",
+					"total": 1039,
+					"count": 0
+				}
+			]
+		}
+	]
+}

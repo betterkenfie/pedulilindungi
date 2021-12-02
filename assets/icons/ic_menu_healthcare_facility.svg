@@ -1,0 +1,14 @@
+<svg width="576" height="576" version="1.1" viewBox="0 0 576 576" xmlns="http://www.w3.org/2000/svg">
+ <path d="m477 72.4-398 0.6v424h258v-64.4c0-13 10-23 23-23h27c13 0 23 10 23 23v64.4h103l1-390s0-34-37-35z" fill="#ffbf43" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="m215 72.8-136 0.205v424h152c0.142-0.998 0.305-1.99 0.305-3.03v-401c0-9.94-6.75-18.2-15.9-20.6z" fill="#a3813d" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="m135 111h36c6.09 0 11 4.91 11 11v49c0 6.09-4.91 11-11 11h-36c-6.09 0-11-4.91-11-11v-49c0-6.09 4.91-11 11-11z" fill="#285842" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+ <path d="m136 235h36c6.09 0 11 4.91 11 11v49c0 6.09-4.91 11-11 11h-36c-6.09 0-11-4.91-11-11v-49c0-6.09 4.91-11 11-11z" fill="#285842" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+ <path d="m136 359h36c6.09 0 11 4.91 11 11v49c0 6.09-4.91 11-11 11h-36c-6.09 0-11-4.91-11-11v-49c0-6.09 4.91-11 11-11z" fill="#285842" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+ <path d="m274 273h197c6.09 0 11 4.91 11 11v48c0 6.09-4.91 11-11 11h-197c-6.09 0-11-4.91-11-11v-48c0-6.09 4.91-11 11-11z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+ <path d="m430 175a55 56 0 0 1-55 56 55 56 0 0 1-55-56 55 56 0 0 1 55-56 55 56 0 0 1 55 56l-55-0.3z" fill="#d7574d" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+ <path d="m351 163a10 10 0 0 0-10 10 10 10 0 0 0 10 10h48a10 10 0 0 0 10-10 10 10 0 0 0-10-10z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path d="m374 140a10 10 0 0 0-9.92 10.1l0.4 49a10 10 0 0 0 10.1 9.92 10 10 0 0 0 9.92-10.1l-0.4-49a10 10 0 0 0-10.1-9.92z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path d="m70 302-7-21-21-8 21-7 8-21 7 21 21 8-21 7z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" style="-inkscape-stroke:none"/>
+ <path d="m71.1 242a3 3 0 0 0-2.87 1.93l-7.49 19.7-19.7 6.55a3 3 0 0 0-0.119 5.65l19.7 7.49 6.55 19.7a3 3 0 0 0 5.65 0.119l7.49-19.7 19.7-6.55a3 3 0 0 0 0.119-5.65l-19.7-7.49-6.55-19.7a3 3 0 0 0-2.78-2.05zm-0.252 11.9 4.34 13a3 3 0 0 0 1.78 1.85l13.1 5.01-13 4.34a3 3 0 0 0-1.85 1.78l-5.01 13.1-4.34-13a3 3 0 0 0-1.78-1.85l-13.1-5.01 13-4.34a3 3 0 0 0 1.85-1.78z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path d="m37 227a10 10 0 0 1-10 10 10 10 0 0 1-10-10 10 10 0 0 1 10-10 10 10 0 0 1 10 10l-10-0.05z" fill="#fff"/>
+</svg>

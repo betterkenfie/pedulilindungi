@@ -1,0 +1,15 @@
+<svg width="576" height="576" version="1.1" viewBox="0 0 576 576" xmlns="http://www.w3.org/2000/svg">
+ <path transform="matrix(.731 -.682 .682 .731 0 0)" d="m294 410a40 67 0 0 1-40 67 40 67 0 0 1-40-67 40 67 0 0 1 40-67 40 67 0 0 1 40 67z" fill="#c1c1c1" fill-rule="evenodd"/>
+ <path d="m463 125 40 10-78 68-23-25z" fill="#f9feff"/>
+ <path d="m463 125-60 53-23-26 72-65z" fill="#dbdddd"/>
+ <path transform="matrix(.695 .719 -.719 .695 0 0)" d="m480-127a78 43 0 0 1-78 43 78 43 0 0 1-78-43 78 43 0 0 1 78-43 78 43 0 0 1 78 43l-78 2e-3z" fill="#c1c1c1"/>
+ <path d="m386 182c20 20 30 55 18 65-57 50-187 157-187 157l-74-74s113-102 180-164c11-10 44-2 62 16z" fill="#f9feff"/>
+ <path transform="matrix(.7 -.7 .7 .7 0 0)" d="m-95 386a28 52 0 0 1-28 52 28 52 0 0 1-28-53 28 52 0 0 1 28-52 28 52 0 0 1 28 53l-28-0.2z" fill="#c2c2c1"/>
+ <path d="m149 418s34-20 48-30c8-6 1-26-7-33s-25-12-33-4c-13 14-34 39-34 39z" fill="#868787"/>
+ <path transform="matrix(.755 -.656 .656 .755 0 0)" d="m-153 394a12 19 0 0 1-12 19 12 19 0 0 1-12-19 12 19 0 0 1 12-19 12 19 0 0 1 12 19l-12-0.09z" fill="#62666d"/>
+ <path d="m134 406-96 83" color="#000000" fill="#d48787" stroke-linecap="round" stroke-linejoin="round" stroke-width="9" style="-inkscape-stroke:none"/>
+ <path d="m134 402a4.5 4.5 0 0 0-3.27 1.08l-96 83a4.5 4.5 0 0 0-0.461 6.35 4.5 4.5 0 0 0 6.35 0.461l96-83a4.5 4.5 0 0 0 0.461-6.35 4.5 4.5 0 0 0-3.08-1.54z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path d="m99 336-8-17-17-8 17-8 8-17 8 17 17 8-17 8z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" style="-inkscape-stroke:none"/>
+ <path d="m99 284a2.5 2.5 0 0 0-2.26 1.44l-7.62 16.2-16.2 7.62a2.5 2.5 0 0 0 0 4.52l16.2 7.62 7.62 16.2a2.5 2.5 0 0 0 4.52 0l7.62-16.2 16.2-7.62a2.5 2.5 0 0 0 0-4.52l-16.2-7.62-7.62-16.2a2.5 2.5 0 0 0-2.26-1.44zm0 8.37 5.74 12.2a2.5 2.5 0 0 0 1.2 1.2l12.2 5.74-12.2 5.74a2.5 2.5 0 0 0-1.2 1.2l-5.74 12.2-5.74-12.2a2.5 2.5 0 0 0-1.2-1.2l-12.2-5.74 12.2-5.74a2.5 2.5 0 0 0 1.2-1.2z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path d="m147 244a12 12 0 0 1-12 12 12 12 0 0 1-12-12 12 12 0 0 1 12-12 12 12 0 0 1 12 12l-12-0.06z" fill="#ffbf43"/>
+</svg>
